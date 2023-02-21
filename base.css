@@ -1,4 +1,4 @@
-@import https://rawgit.com/hakimel/reveal.js/master/dist/theme/black.css
+@import url(https://rawgit.com/hakimel/reveal.js/master/dist/theme/black.css);
 
 .container{
     display: flex;
