@@ -10,6 +10,6 @@ body{
     background-color: red;
 }
 
-.slides:has(section.exercise) {
+.reveal:has(.slides section.exercise.present) {
     background-color: red !important; 
 }
