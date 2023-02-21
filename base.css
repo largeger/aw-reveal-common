@@ -9,5 +9,5 @@ body{
 }
 
 section[class~="exercise"] {
-    background-color: red !important ; 
+    background-color: red !important; 
 }
