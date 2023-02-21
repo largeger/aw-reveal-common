@@ -7,3 +7,7 @@
 body{
     background-color: red;
 }
+
+section[class="exercise"] {
+    data-background-gradient="linear-gradient(to bottom, #339966, #006666)"
+}
