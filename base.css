@@ -10,6 +10,6 @@ body{
     background-color: red;
 }
 
-section[class~="exercise"] {
+slides[class~="exercise"] {
     background-color: red !important; 
 }
