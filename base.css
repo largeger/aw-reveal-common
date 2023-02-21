@@ -8,6 +8,6 @@ body{
     background-color: red;
 }
 
-section[class="exercise"] {
+section[class~="exercise"] {
     background-color: red !important ; 
 }
