@@ -6,9 +6,7 @@
 .col{
     flex: 1;
 }
-body{
-    background-color: red;
-}
+
 
 .reveal:has(section.exercise.present) {
     background-color: red !important; 
