@@ -9,5 +9,5 @@ body{
 }
 
 section[class="exercise"] {
-    data-background-gradient="linear-gradient(to bottom, #339966, #006666)"
+    background-color: red !important ; 
 }
