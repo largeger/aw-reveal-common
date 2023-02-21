@@ -9,5 +9,5 @@
 
 
 .reveal:has(section.exercise.present) {
-    background: "linear-gradient(to bottom, #339966, #006666)"; 
+    background-image: linear-gradient(to bottom, #339966, #006666); 
 }
